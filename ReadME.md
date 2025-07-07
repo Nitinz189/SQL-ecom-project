@@ -7,7 +7,7 @@ This project focuses on designing, optimizing, and populating a relational datab
 ## 📐 Entity-Relationship Diagram (ERD)
 > A detailed ERD illustrates relationships between the key entities: Products, Users, Orders, Payments, and Reviews.
 
-![ERD](image\ERD.png)
+![ERD](image/ERD.png)
 
 ---
 
