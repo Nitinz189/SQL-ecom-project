@@ -21,7 +21,7 @@ This project focuses on designing, optimizing, and populating a relational datab
 - **Reviews**
 
 ### 🔄 Normalization
-The database was normalized up to **3NF**:
+The database was normalized up to **3NF**
 
 ---
 
