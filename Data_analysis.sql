@@ -1,6 +1,5 @@
--- Chapter 7: Data Analysis and Reporting
 
--- Switch to the appropriate database
+-- Switch to the database
 USE ecommerce_db;
 
 -- 1. Total Sales
